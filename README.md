@@ -19,7 +19,7 @@ Changes to be committed:
 
 D - echo 02 > arquivo.txt
 
-E - git status
+E - git diff
 diff --git a/arquivo.txt b/arquivo.txt
 new file mode 100644
 index 0000000..d789aa4
